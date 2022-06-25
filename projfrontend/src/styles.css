@@ -1,0 +1,20 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: linear-gradient(176deg, white 50%, #212529 60%);
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
